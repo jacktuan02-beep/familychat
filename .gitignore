@@ -1,4 +1,3 @@
-# Node / JS
 node_modules/
 dist/
 build/
@@ -6,30 +5,20 @@ build/
 out/
 coverage/
 *.log
-npm-debug.log*
-yarn-debug.log*
-pnpm-debug.log*
-
-# Env / OS
 .env
 .env.*
 .DS_Store
 
-# Android
 android/.gradle/
 android/**/build/
 *.apk
 *.aab
 
-# iOS
 ios/Pods/
 DerivedData/
 *.ipa
 
-# Expo / React Native
 .expo/
 .expo-shared/
-
-# Cache
 .cache/
 .tmp/
